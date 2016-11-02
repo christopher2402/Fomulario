@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
     EditText Nombre, Apellido, Correo, Edad, Hobbies;
     RadioGroup Radio;
     Button Ejecutar;
-
     String sexo = "";
 
     @Override

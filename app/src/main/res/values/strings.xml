@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fomulario</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido1">Primer Apellido</string>
+    <string name="Apellido2">Segundo Apellido</string>
+    <string name="Edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="hobbies">Pasatiempos</string>
+
+    <string name="inpNombre">Ejemplo Maria</string>
+    <string name="inpApellido1">Ejemplo: Perez Torres</string>
+    <string name="inpCorreo">María@ejemplo.com</string>
+    <string name="inpEdad">22</string>
+    <string name="inpHobbies">Me gusta jugar futbol</string>
+
+    <string name="mujer">Femenino</string>
+    <string name="hombre">Masculino</string>
+</resources>
